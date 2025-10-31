@@ -15,8 +15,8 @@ The goal was to identify top and underperforming vendors, optimize purchase plan
 ---
 
 ### 📊 Dashboard
-📂 [Open Report Folder](./Report)  
-➡️ [Download Power BI Report (.pbix)](https://drive.google.com/your-link-here)
+ 
+➡️ [Download Power BI Report (.pbix)](./vendor.pbix)
 
 ![Dashboard Preview](./Reports/dashboard_preview.png)
 
@@ -26,8 +26,8 @@ The goal was to identify top and underperforming vendors, optimize purchase plan
 ---
 
 ### 🎞️ Presentation
-📂 [Open Presentation Folder](./Presentation)  
-➡️ [Download Presentation (.pptx)](./Presentation/Vendor_performance_ANALYSIS.pptx)
+
+➡️ [Download Presentation (.pptx)](./Vendor_performance.pptx)
 
 ---
 
