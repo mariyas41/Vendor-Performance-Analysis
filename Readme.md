@@ -73,9 +73,9 @@ The aim was to:
 
 | Observation | Insight | Business Impact |
 |--------------|----------|----------------|
-| Vendor performance highly skewed | Top 5 vendors contribute ~70% of total revenue | Focus on vendor relationship management and discount leverage |
+| Vendor performance highly skewed | Top 10 vendors contribute ~65% of total purchase | Focus on vendor relationship management and discount leverage |
 | Profit margin inconsistency | Some brands show negative margins despite high sales | Indicates over-purchasing or pricing inefficiency |
-| Unsold capital value significant | ~25% of stock remains unsold for >60 days | Inventory holding cost can be reduced with better forecasting |
+| Unsold capital value significant | High unsold inventory value across some vendors | Indicates over-purchasing or stock allocation mismatch |
 | Low-performing brands | Identified via DAX threshold filters | Recommend targeted marketing or vendor negotiation |
 
 ---
@@ -97,8 +97,7 @@ The aim was to:
 
 ### 🖱️ Dashboard Interactivity
 - **Filters & Slicers:** Brand, Vendor, Category, and Time Period  
-- **Dynamic KPIs:** Adjust instantly with filters  
-- **Drill-Through:** Explore vendor details with margin and stock breakdown  
+- **Dynamic KPIs:** Adjust instantly with filters    
 - **Cross-Filtering:** Clicking visuals updates all others for contextual analysis  
 
 
