@@ -16,7 +16,7 @@ The goal was to identify top and underperforming vendors, optimize purchase plan
 
 ### 📊 Dashboard
  
-➡️ [Download Power BI Report (.pbix)](./vendor.pbix)
+➡️ [Download Power BI Report (.pbix)](./vendor_new.pbix)
 
 ![Dashboard Preview](./Reports/dashboard_preview.png)
 
